@@ -29,4 +29,4 @@ main() {
 
 Please file feature requests and bugs at the [issue tracker][tracker].
 
-[tracker]: https://github.com/shirne/unicode/issues
+[tracker]: https://github.com/shirne/unicode-dart/issues
